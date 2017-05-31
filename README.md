@@ -1,4 +1,5 @@
 # Jquery
+Jquery website:http://jquery.com/download/ , old versions: https://code.jquery.com/
 Jquery import script :
 <script
   src="https://code.jquery.com/jquery-1.12.4.js"
