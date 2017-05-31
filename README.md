@@ -6,6 +6,8 @@ Jquery import script :
   integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="
   crossorigin="anonymous"></script>
   
+  
+  jQuery选择器之基本筛选选择器:
   http://img.mukewang.com/57cd1df2000146de06020498.jpg
   
   
